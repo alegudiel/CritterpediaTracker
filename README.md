@@ -14,6 +14,7 @@ Built with SwiftUI. Designed for and tested with one very real user, my sister.
 ## The problem
 
 The in-game Critterpedia does not travel well. Away from that screen, players forget which species they still need, catch duplicates, and have to dig through external wikis to learn when and where each critter appears. The result, my sister stopped trying to complete her collections.
+
 ## The solution
 
 A second screen checklist with the catching knowledge built in.
