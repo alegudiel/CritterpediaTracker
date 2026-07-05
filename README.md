@@ -4,12 +4,11 @@ An offline iOS companion app for Animal Crossing: New Horizons that answers two 
 
 Built with SwiftUI. Designed for and tested with one very real user, my sister.
 
-> 📖 **Read the full [UX Case Study](CASE_STUDY.md)**, from problem framing to design decisions and outcomes.
+> 📖 **Read the full [UX Case Study](CaseStudy.md)**, from problem framing to design decisions and outcomes.
 
 ## Demo
 
-<!-- Drag and drop your demo.mp4 here when editing on GitHub, it will embed a video player -->
-<!-- Backup copy lives in docs/demo.mp4 -->
+https://github.com/user-attachments/assets/ee20d1e9-f393-445f-a04a-7221f0808958
 
 ## The problem
 
@@ -67,4 +66,4 @@ Unofficial fan project with no affiliation to Nintendo. Animal Crossing is a tra
 
 ---
 
-Made with 🍃 by [Ale Gudiel](https://github.com/alegudiel)
+Made by [Ale Gudiel](https://github.com/alegudiel)
