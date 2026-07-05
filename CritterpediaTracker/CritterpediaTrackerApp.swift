@@ -1,17 +1,13 @@
-//
-//  CritterpediaTrackerApp.swift
-//  CritterpediaTracker
-//
-//  Created by Alejandra on 4/07/26.
-//
-
 import SwiftUI
 
 @main
 struct CritterpediaTrackerApp: App {
+    @StateObject private var caughtStore = CaughtStore()
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
+                .environmentObject(caughtStore)
         }
     }
 }
